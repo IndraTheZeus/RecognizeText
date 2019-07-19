@@ -1,0 +1,204 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:2:1-52:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\54d580d50d16f32a0eb4f9d9917298a4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\a716e733f50263b81b371af10f3ea76b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\29e661bfb55b2f7b4c3b6310e69304ff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\7943bcc6530060df21be0512bd64b855\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\7402927b837113dcfe1b414fa15ac697\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\80f2ca87167260495eb57d1ed68b3a5f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\b339bb991094d5ca5d279f2e7780f590\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\fca788c58a9c6691db5c5da8069b1180\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\8c4ccd1096e890f7e2dd6421c3d4faf1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\7d73922e7de6209db6383b0da5cadb82\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\b5efc7b49ccd2b219055836dd4c8a752\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\3cabb48f097d0cae35e9b31763f5f18f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\8c85b9453ffdf9ddd9574c20d9cff1ae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\d3894aed176ca29952db960fcb9a5830\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\bf78c0f917b42f91aad15710cbdf8fe7\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\cf22a3cc36d0bd3492b1097a5e8cac4f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\aa47d597e0cbbafe9040a05c838ac423\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\0d6d8dc39155b2370805f316a7c87f9c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\b581604dbbd3a43e80df635a2cfc6f57\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\e660409a312809f57ac0a2cb050b4fd4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\480e825258d241ac59dcfb2ff3ca7e18\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\c9901ea957ec6393bac64d93221e453e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\111c5023f4cf7b1b7be92d8364024a2e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\e07f27be3ac41c3cd58a9afcb0d91465\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\b9e7ade4531add70970efe43fd49029c\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:2:1-52:12
+	package
+		ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:7:22-65
+uses-permission#android.permission.CAMERA
+ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:8:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:10:22-77
+uses-permission#android.permission.INTERNET
+ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:11:22-64
+uses-feature#android.hardware.camera
+ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:13:5-15:35
+	android:required
+		ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:15:9-32
+	android:name
+		ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:14:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:16:5-18:35
+	android:required
+		ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:18:9-32
+	android:name
+		ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:17:9-57
+uses-feature#android.hardware.camera.front
+ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:19:5-21:36
+	android:required
+		ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:21:9-33
+	android:name
+		ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:20:9-53
+uses-feature#android.hardware.camera.front.autofocus
+ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:22:5-24:36
+	android:required
+		ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:24:9-33
+	android:name
+		ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:23:9-63
+application
+ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:26:5-50:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\d3894aed176ca29952db960fcb9a5830\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\d3894aed176ca29952db960fcb9a5830\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\bf78c0f917b42f91aad15710cbdf8fe7\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\bf78c0f917b42f91aad15710cbdf8fe7\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\d3894aed176ca29952db960fcb9a5830\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:29:9-41
+	android:largeHeap
+		ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:30:9-33
+	android:icon
+		ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:28:9-45
+	android:allowBackup
+		ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:27:9-35
+	android:theme
+		ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:31:9-67
+activity#com.compa.readerocr.LoginActivity
+ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:32:9-41:20
+	android:screenOrientation
+		ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:35:13-49
+	android:label
+		ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:34:13-45
+	android:name
+		ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:33:13-61
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:36:13-40:29
+action#android.intent.action.MAIN
+ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:39:27-74
+activity#com.compa.readerocr.AndroidCamera
+ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:42:9-45:20
+	android:label
+		ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:44:13-61
+	android:name
+		ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:43:13-61
+activity#com.compa.readerocr.RecognizeTextActivity
+ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:46:9-49:20
+	android:label
+		ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:48:13-61
+	android:name
+		ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml:47:13-69
+uses-sdk
+INJECTED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\54d580d50d16f32a0eb4f9d9917298a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\54d580d50d16f32a0eb4f9d9917298a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\a716e733f50263b81b371af10f3ea76b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\a716e733f50263b81b371af10f3ea76b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\29e661bfb55b2f7b4c3b6310e69304ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\29e661bfb55b2f7b4c3b6310e69304ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\7943bcc6530060df21be0512bd64b855\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\7943bcc6530060df21be0512bd64b855\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\7402927b837113dcfe1b414fa15ac697\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\7402927b837113dcfe1b414fa15ac697\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\80f2ca87167260495eb57d1ed68b3a5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\80f2ca87167260495eb57d1ed68b3a5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\b339bb991094d5ca5d279f2e7780f590\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\b339bb991094d5ca5d279f2e7780f590\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\fca788c58a9c6691db5c5da8069b1180\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\fca788c58a9c6691db5c5da8069b1180\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\8c4ccd1096e890f7e2dd6421c3d4faf1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\8c4ccd1096e890f7e2dd6421c3d4faf1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\7d73922e7de6209db6383b0da5cadb82\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\7d73922e7de6209db6383b0da5cadb82\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\b5efc7b49ccd2b219055836dd4c8a752\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\b5efc7b49ccd2b219055836dd4c8a752\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\3cabb48f097d0cae35e9b31763f5f18f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\3cabb48f097d0cae35e9b31763f5f18f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\8c85b9453ffdf9ddd9574c20d9cff1ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\8c85b9453ffdf9ddd9574c20d9cff1ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\d3894aed176ca29952db960fcb9a5830\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\d3894aed176ca29952db960fcb9a5830\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\bf78c0f917b42f91aad15710cbdf8fe7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\bf78c0f917b42f91aad15710cbdf8fe7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\cf22a3cc36d0bd3492b1097a5e8cac4f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\cf22a3cc36d0bd3492b1097a5e8cac4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\aa47d597e0cbbafe9040a05c838ac423\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\aa47d597e0cbbafe9040a05c838ac423\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\0d6d8dc39155b2370805f316a7c87f9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\0d6d8dc39155b2370805f316a7c87f9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\b581604dbbd3a43e80df635a2cfc6f57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\b581604dbbd3a43e80df635a2cfc6f57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\e660409a312809f57ac0a2cb050b4fd4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\e660409a312809f57ac0a2cb050b4fd4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\480e825258d241ac59dcfb2ff3ca7e18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\480e825258d241ac59dcfb2ff3ca7e18\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\c9901ea957ec6393bac64d93221e453e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\c9901ea957ec6393bac64d93221e453e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\111c5023f4cf7b1b7be92d8364024a2e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\111c5023f4cf7b1b7be92d8364024a2e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\e07f27be3ac41c3cd58a9afcb0d91465\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\e07f27be3ac41c3cd58a9afcb0d91465\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\b9e7ade4531add70970efe43fd49029c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\b9e7ade4531add70970efe43fd49029c\AndroidManifest.xml:20:5-44
+INJECTED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android_Projects\Intern Works\RecognizeText\app\src\main\AndroidManifest.xml
